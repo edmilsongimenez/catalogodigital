@@ -226,6 +226,13 @@ header .navbar ul li a:hover{
     color:#fff;
 }
 
+.about p{
+    font-size:2rem;
+    color:#eee;
+    padding: 10rem;
+    
+}
+
 .education .box-container{
     display: flex;
     align-items: center;
@@ -646,5 +653,6 @@ header .navbar ul li a:hover{
     .contact .row form{
         margin:3rem 0;
     }
+
 
  }
